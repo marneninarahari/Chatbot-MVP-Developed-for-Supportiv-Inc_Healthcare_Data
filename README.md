@@ -1,4 +1,4 @@
-# Chatbot_MVP_Assignment_for Supportiv Inc_Healthcare_Data
+# Chatbot_MVP_for_Healthcare_Data
 
 ### The deatils of each step in creating a Chatbot using generative AI is provided below.
 
